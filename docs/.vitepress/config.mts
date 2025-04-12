@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/akun-docs/',
+  base: '/study/',
   title: "CS-Knowledge",
   description: "Sharing of computer knowledge",
   themeConfig: {
