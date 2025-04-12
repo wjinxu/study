@@ -1,0 +1,1 @@
+import{_ as r,c as e,o as t}from"./chunks/framework.BQcVUm0h.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"riscv-isa-doc/rv32/rv32i.md","filePath":"riscv-isa-doc/rv32/rv32i.md"}'),a={name:"riscv-isa-doc/rv32/rv32i.md"};function s(c,i,o,n,d,v){return t(),e("div")}const m=r(a,[["render",s]]);export{_ as __pageData,m as default};
