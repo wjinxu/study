@@ -10,7 +10,7 @@ layout: doc
 
 1. 克隆`RT`项目
 
-执行下面的命令，克隆`RT`项目
+执行下面的命令，克隆`RT`
 ``` shell
 $ git clone git@github.com:cs-prj-repo/rt-thread-am.git
 ```
