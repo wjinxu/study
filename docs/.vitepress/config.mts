@@ -24,9 +24,5 @@ export default defineConfig({
         ]
       }
     ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/akun0311/akun-docs' }
-    ]
   }
 })
