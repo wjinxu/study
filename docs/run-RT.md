@@ -6,7 +6,7 @@ layout: doc
 
 # {{ $frontmatter.title }}
 
-## 一、参考设计处理器启动RT
+## 一、参考设计处理器启动RT项目
 
 1. 克隆`RT`项目
 
